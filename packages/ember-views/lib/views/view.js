@@ -740,7 +740,7 @@ function viewDeprecationMessage() {
     {
       url: 'http://emberjs.com/deprecations/v1.x/#toc_ember-view',
       id: 'ember-views.view-deprecated',
-      until: '2.4.0'
+      until: '2.0.0'
     }
   );
 }
